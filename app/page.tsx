@@ -264,7 +264,7 @@ function Services() {
 
   const services = [
     { title: "Alinhamento Russo Nude", image: "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&q=80&w=800", desc: "Nivelamento térmico e cobertura nude ultrabrilhante. Foco em simetria de cutículas de forma totalmente assética e indolor." },
-    { title: "Verniz Gel", image: "https://images.unsplash.com/photo-1522337360788-cb161047db37?auto=format&fit=crop&q=80&w=800", desc: "Acabamento de alto brilho e resistência prolongada sem lascar, garantindo unhas impecáveis por semanas." },
+    { title: "Verniz Gel", image: "https://i.imgur.com/5fvJhG8.jpeg", desc: "Acabamento de alto brilho e resistência prolongada sem lascar, garantindo unhas impecáveis por semanas." },
     { title: "Banho de Gel Fortalecedor", image: "https://images.unsplash.com/photo-1522337660859-02fbefca4702?auto=format&fit=crop&q=80&w=800", desc: "Aperfeiçoamento estrutural de unhas mais fracas ou quebradiças, conferindo resistência extrema." },
     { title: "Nail Art Personalizada", image: "https://images.unsplash.com/photo-1519014816548-bf5fe059e98b?auto=format&fit=crop&q=80&w=800", desc: "Design minimalista e elegante criado à mão livre, combinando estética e personalidade na medida certa." },
     { title: "Coleção de Gel Hemma-Free", image: "https://images.unsplash.com/photo-1516975080661-46bacece8ea6?auto=format&fit=crop&q=80&w=800", desc: "Fórmulas livres de monómeros tóxicos, ideais para peles sensíveis, mantendo o brilho incomparável." },
