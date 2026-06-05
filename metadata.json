@@ -1,0 +1,6 @@
+{
+  "name": "Fada Studio",
+  "description": "Cuidados com Unhas de Alto Padrão em Portugal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
